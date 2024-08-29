@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Profile views](https://hits.sh/github.com/surya-525/username.svg?style=social&label=Profile%20views&extraCount=XXX)
+![Profile views](https://hits.sh/github.com/surya-525/username.svg?style=social&label=Profile%20views&extraCount=0)
 
