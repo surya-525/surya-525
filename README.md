@@ -23,3 +23,10 @@ Here are some ideas to get you started:
 -->
 
 
+## 💻 coding profiles:
+  <a href="https://www.leetcode.com/surya525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>  <a href="https://auth.geeksforgeeks.org/user/surya525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="" height="30" width="40" /></a>  
+## 📫 Connect with Me
+<p align="left"  >  
+<a href="https://linkedin.com/in/surya525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>   
+<a href="https://discord.gg/surya525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="" height="30" width="40" /></a>  
+</p>  
